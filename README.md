@@ -8,7 +8,11 @@
 
 ## Some thing's can't Froxlor do
 ** Changing account username
+
 ** Changing account ip
+
 ** Change doamin name
+
 ## Comming soon
+
 ** Changing account hosting package
