@@ -1,17 +1,17 @@
 # FOSSBilling-Froxlor
 
-
+# Compatible with FOSSBilling v0.6.2
 
 ## Installation
 
-* Download `Froxlor.php` file and add it in /libary/Server/Mananger
+* Download the `Froxlor.php` file and add it to/library/Server/Manager
 
-## Some thing's can't Froxlor do
+## Some things can't Froxlor do
 * Changing account username
 
 * Changing account ip
 
-* Change doamin name
+* Change domain name
 
 ## Comming soon
 
