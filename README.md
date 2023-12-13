@@ -1,6 +1,9 @@
+> [!NOTE]  
+> Compatible with FOSSBilling v0.6.2
+> 
 # FOSSBilling-Froxlor
 
-# Compatible with FOSSBilling v0.6.2
+
 
 ## Installation
 
